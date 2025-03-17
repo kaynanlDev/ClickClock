@@ -1,29 +1,38 @@
-# click-clock
+# Relógio digital - Click Clock
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Overview
 
-## Project Setup
 
-```sh
-npm install
-```
+### Screenshot
 
-### Compile and Hot-Reload for Development
+![](./screesnshot.jpg)
 
-```sh
-npm run dev
-```
+### Links
 
-### Compile and Minify for Production
+## My process
 
-```sh
-npm run build
-```
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- [VUe]() - JS framework
+- [Sass]() - pre-processer
+
+
+
+## Author
+
+- Website - [KaynanDev](https://kaynan-dev.vercel.app/)
+
+
